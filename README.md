@@ -22,6 +22,10 @@ Currently studying at Ironhack in a 24-week intensive Software Development progr
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246358/three_zbzoit.png" alt="Three.js" height="40"/>
 </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
+</a>
+
 <a href="https://sass-lang.com/" target="_blank">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246961/sass_grsuqp.png" alt="SASS" height="50"/>
 </a>
