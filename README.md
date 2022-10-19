@@ -1,6 +1,8 @@
 # Hello, I'm Adriana (she/her)👋🏼
 
-Currently studying at Ironhack in a 24-week intensive Software Development program.
+Currently looking for an Alternance in Paris for 12 to 24 months as a web dev. (fullstack or front)
+
+School : 3WA
 
 ## My stack ⬇️
 
