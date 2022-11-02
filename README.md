@@ -46,11 +46,9 @@
 </p>
 
 
-<br/>
-
 
 ## Comfortable working on site or remotely
 
- <img width=300px src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387745/Capture_d_e%CC%81cran_2022-11-02_a%CC%80_11.31.17_k7yhu0-removebg-preview_odwj4k.png"/>   
+ <img width=200px src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387745/Capture_d_e%CC%81cran_2022-11-02_a%CC%80_11.31.17_k7yhu0-removebg-preview_odwj4k.png"/>   
  
  
