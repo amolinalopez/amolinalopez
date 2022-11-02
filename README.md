@@ -1,8 +1,6 @@
 # Hello, I'm Adriana (she/her)👋🏼
 
-Currently looking for an Alternance in Paris for 12 to 24 months as a web dev. (fullstack or front)
-
-School : 3WA
+25  |  French 🇫🇷 | On my journey to become a Fullstack Developer !
 
 ## My stack ⬇️
 
@@ -16,17 +14,26 @@ School : 3WA
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244334/React-icon.svg_m2shuj.png" alt="React" height="40">
 </p>
 
+<br />
+
 ## Currently working on :
  
 <p align="left">
-        
+    
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
+</a>
+    
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
+</a>
+    
+    
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Three_js" target="_blank">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246358/three_zbzoit.png" alt="Three.js" height="40"/>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
-</a>
+
 
 <a href="https://sass-lang.com/" target="_blank">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246961/sass_grsuqp.png" alt="SASS" height="50"/>
@@ -38,17 +45,10 @@ School : 3WA
 
 </p>
 
-<!--
-**amolinalopez/amolinalopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+ <img width=300px src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667385193/Capture_d_e%CC%81cran_2022-11-02_a%CC%80_11.31.17_k7yhu0.png"/>   Comfortable working on site or remotely
