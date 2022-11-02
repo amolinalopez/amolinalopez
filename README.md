@@ -14,7 +14,7 @@
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244334/React-icon.svg_m2shuj.png" alt="React" height="40">
 </p>
 
-<br />
+
 
 ## Currently working on :
  
