@@ -27,6 +27,10 @@
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
 </a>
+
+<a href="https://jestjs.io/fr/" target="_blank">
+<img src=" https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="45"/>
+</a>
     
     
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Three_js" target="_blank">
