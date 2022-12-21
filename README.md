@@ -24,12 +24,12 @@
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
 </a>
     
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://beta.nextjs.org/docs" target="_blank">
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
 </a>
 
 <a href="https://jestjs.io/fr/" target="_blank">
-<img src=" https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="45"/>
+<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1671635810/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f74657374696e672d72656163742d776974682d6a6573742f6c6f676f2e706e67_ctmrwq.png" alt="Jest" height="45"/>
 </a>
     
     
