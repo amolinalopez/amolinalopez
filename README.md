@@ -45,7 +45,7 @@
 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolinalopez&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amolinalopez&layout=compact&theme=omni"/>
 
 
 ## Comfortable working on site or remotely
