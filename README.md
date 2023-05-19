@@ -4,6 +4,8 @@
 
 ## My stack ⬇️
 
+<p align="left">
+
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
     
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244283/NodeJS_l1hgv3.png" alt="NodeJS" height="40">
