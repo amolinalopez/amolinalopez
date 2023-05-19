@@ -4,8 +4,10 @@
 
 ## My stack ⬇️
 
-<p align="left">
-<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660243596/JavaScript-logo_sg9hgf.png" alt="Javascript" height="40">
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
+</a>
+    
     
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244283/NodeJS_l1hgv3.png" alt="NodeJS" height="40">
 
@@ -20,10 +22,7 @@
  
 <p align="left">
     
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
-</a>
-    
+
 <a href="https://beta.nextjs.org/docs" target="_blank">
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
 </a>
