@@ -1,6 +1,6 @@
 # Hello, I'm Adriana (she/her)👋🏼
 
-25  |  French 🇫🇷 | On my journey to become a Fullstack Developer !
+25  |  French 🇫🇷 |
 
 ## My stack ⬇️
 
