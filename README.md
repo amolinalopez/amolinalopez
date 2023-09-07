@@ -6,6 +6,12 @@
 
 <p align="left">
 
+
+<a href="https://beta.nextjs.org/docs" target="_blank">
+<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
+</a>
+    
+
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1664305155/ts_logo_o1wbbf.png" alt="Typescript" height="40"/>
     
 <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244283/NodeJS_l1hgv3.png" alt="NodeJS" height="40">
@@ -21,16 +27,10 @@
  
 <p align="left">
     
-
-<a href="https://beta.nextjs.org/docs" target="_blank">
-<img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1667387459/nextjs-boilerplate-logo_uz1rlg.png" alt="Next.js" height="45"/>
-</a>
-    
     
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/Three_js" target="_blank">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246358/three_zbzoit.png" alt="Three.js" height="40"/>
 </a>
-
 
 
 <a href="https://sass-lang.com/" target="_blank">
