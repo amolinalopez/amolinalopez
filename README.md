@@ -11,7 +11,10 @@
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244752/mongodb_llincu.svg" alt="MongoDB" height="40">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660244334/React-icon.svg_m2shuj.png" alt="React" height="40">
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660246961/sass_grsuqp.png" alt="SASS" height="40"/>
-    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660247637/Accessibility-Logo-removebg-preview_m7dnhk.png" alt="Web accessibility" height="40"/>
+    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1660247637/Accessibility-Logo-removebg-preview_m7dnhk.png" alt="Web   
+ accessibility" height="40"/>
+    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1701539028/1200px-Git_icon.svg_gzolev.png" alt="Git" height="40"/>
+
 </p>
 
 ## Currently working on :
@@ -21,7 +24,6 @@
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1701538844/docker_official_logo_icon_169250_efevhc.png" alt="Docker" height="40"/>
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1701538915/58480979cef1014c0b5e4901_t7w8yl.png" alt="Java" height="40"/>
     <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1701538954/2048px-GraphQL_Logo.svg_qijpdi.png" alt="GraphQL" height="40"/>
-    <img src="https://res.cloudinary.com/dsbxyd6o2/image/upload/v1701539028/1200px-Git_icon.svg_gzolev.png" alt="Git" height="40"/>
 </p>
 
 ## GitHub Stats
